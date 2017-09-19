@@ -1,2 +1,2 @@
-# gocode
+# go
 my go apps
